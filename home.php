@@ -1,10 +1,14 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<center><img id="banner" src="http://www.calicuttaxi.com/images/banner_04.png" alt="Banner Image" width="1000" height="250"></center>
+
+<center>  <img id="banner" src="http://www.calicuttaxi.com/images/banner_04.png" alt="Banner Image" width="900" height="200"></center>
+<center><nav>
+
 <body background="http://media.istockphoto.com/photos/abstract-blue-green-technology-and-science-modern-background-picture-id523760376?k=6&m=523760376&s=170667a&w=0&h=aftceF6b8PRPLj5ATpYHvA7a9g-KgxLBOihz9sT_3PM=">
 
-<title>History</title>
+
+  <title>Home</title>
 <style type="text/css">
 
 body
@@ -91,17 +95,30 @@ li.dropdown {
 </head>
 
 <body>
-<h1>History</h1>
 <br>
-<p>Our taxi company provides various types of cars, whether small or large. We created a website for 
-those who require the services we took and sent to their destinations. It aims to help customers drive 
-than using GPS sensors. In addition, it also makes it easier for customers arriving from the airport or 
-any destination took them and sent home. Regardless of the country or even overseas can use this website.
-<p>
+ <center>
+<object width="300" height="200"><param name="movie" 
+value="http://www.youtube.com/v/HhcLUF59Oh4&hl=en&fs=1"></param>
+<param name="allowFullScreen" value="true"></param>
+<embed src="http://www.youtube.com/v/HhcLUF59Oh4&hl=en&fs=1" 
+type="application/x-shockwave-flash" allowfullscreen="true" 
+width="300" height="200"></embed></object>
+
+&nbsp <img id="banner" src="http://www.worldatlas.com/img/areamap/190a5b219dd8d2fa630b5ec59132c8dc.gif" alt=" Malaysia Maps" width="700" height="350">
+&nbsp <img id="banner" src="http://bodrumdrive.com/images/site/car_banner.jpg" alt=" banner" width="200" height="400">
+
+</center>
 
 
+
+ </p>
+<br>
+<br>
 
 </body>
+
+
+   
 <br><br>
 
 <script>
